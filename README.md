@@ -1,16 +1,23 @@
-# 🌟 Sergey and His World of Development
+# 🌟 About me
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Kuuuzya&color=brightgreen&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Kuuuzya&color=brightgreen&style=flat-square" alt="Profile Views" /><br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/Mac-999999?style=flat-square&logo=apple&logoColor=white" alt="Mac" />
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" alt="iOS" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuuuzya&layout=compact&theme=tokyonight&card_width=300" alt="Top Languages" /><br>
     <img src="https://github-readme-stats.vercel.app/api?username=Kuuuzya&show_icons=true&theme=tokyonight&card_width=300" alt="GitHub Stats" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Kuuuzya&theme=tokyonight&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kuuuzya&theme=tokyonight&row=1&column=8" alt="Trophies" />
 </div>
+
+
 
 ---
 

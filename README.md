@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/kuuuzya/ama)
+
 
 <!--
 **Kuuuzya/kuuuzya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
